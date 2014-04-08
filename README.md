@@ -1,4 +1,4 @@
-scoutjoom3.2.1
+scoutjoom-3.2.1
 ==============
 Version3.2 of Joomla Template for Scout web sites
 
